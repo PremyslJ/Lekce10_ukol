@@ -12,11 +12,14 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 public class FindMatchingTest {
     private Find findNumber;
 
+     // Task 1
     private final Double MINIMAL_LIMIT1 = 11.0;
 
     private final Double MAXIMAL_LIMIT1 = 12.6;
     private final List<Double> LIST_OF_NUMBERS_TASK1 = Arrays.asList(12.0, 8.126, 6.0);
 
+
+    //Task2
 
     private final Double MINIMAL_LIMIT2 = 8.0;
 
