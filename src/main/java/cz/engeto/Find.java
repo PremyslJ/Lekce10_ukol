@@ -8,7 +8,7 @@ public class Find {
      * Metoda iteruje každý prvek (oneElement) v seznamu listOfNumbers pomocí cyklu "for-each".
      * Pro každý prvek v seznamu zkontroluje, zda je větší nebo rovno lowerLimit a
      * zároveň menší nebo rovno upperLimit a využívá podmínku: oneElement <= upperLimit && oneElement >= lowerLimit.
-     * Pokud podmínka platí a prvek spadá do zadaného rozmezí, tak metoda prvek vrátí. Pokud žádná v limitu nejajde
+     * Pokud podmínka platí a prvek spadá do zadaných limitů, tak ho vrátí. Pokud žádný v limitu nenajde
      * vrátí null
      *
      * @param listOfNumbers seznam hodnot
